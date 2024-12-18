@@ -3,6 +3,6 @@ streamlit
 numpy
 pandas
 torch==2.3.1
-torchvision==0.15.2+cpu
+torchvision==0.20.1
 -f https://download.pytorch.org/whl/torch_stable.html
 # add other dependencies here
