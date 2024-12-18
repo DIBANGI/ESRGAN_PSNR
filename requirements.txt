@@ -2,7 +2,7 @@ opencv-python
 streamlit
 numpy
 pandas
-torch==2.0.1
+torch==2.3.1
 torchvision==0.15.2+cpu
 -f https://download.pytorch.org/whl/torch_stable.html
 # add other dependencies here
